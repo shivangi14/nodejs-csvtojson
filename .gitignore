@@ -1,0 +1,4 @@
+/.idea
+/node_modules
+CsvToJson.iml
+package-lock.json
